@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Borracha Branca",
+      "price": 1.2
+    },
+    {
+      "id": 3,
+      "name": "Caderno 10",
+      "price": 22.75
+    },
+    {
+      "id": 4,
+      "name": "Lapis Padrao",
+      "price": 2.15
+    }
+  ]
+}
