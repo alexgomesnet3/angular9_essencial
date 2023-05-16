@@ -19,6 +19,11 @@
       "id": 4,
       "name": "Lapis Padrao",
       "price": 2.15
+    },
+    {
+      "id": 5,
+      "name": "Mochila Preta",
+      "price": 47.5
     }
   ]
 }
