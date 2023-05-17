@@ -1,5 +1,6 @@
 import { Component } from "@angular/core";
 import { HeaderComponent } from "./components/template/header/header.component";
+import { FooterComponent } from "./components/template/footer/footer.component";
 
 @Component({
   selector: "app-root",
@@ -7,4 +8,5 @@ import { HeaderComponent } from "./components/template/header/header.component";
 })
 export class AppComponent {
   "app-header": HeaderComponent;
+  "app-footer": FooterComponent;
 }
